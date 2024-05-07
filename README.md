@@ -12,7 +12,7 @@ The results are published in a table format similar to that of ICR-2LS or Decon2
 <pre>
 - Command: java -jar rapid.jar configFile
 - Example: java -jar rapid.jar foo.txt
-</pre>pre>
+</pre>
 ## 2. Parameters (See foo.txt file)
 <pre>
 - File::DataList (required)
@@ -82,14 +82,14 @@ The results are published in a table format similar to that of ICR-2LS or Decon2
 </pre>
 ## 3. Citation
 <pre>
-- Isotopic Peak Intensity Ratio based Algorithm for Fast and Accurate Determination of Isotopic Clusters and 
-  Monoisotopic Masses of Polypeptides from High Resolution Mass Spectrometric Data
+- Isotopic Peak Intensity Ratio based Algorithm for Fast and Accurate Determination of Isotopic Clusters 
+  and Monoisotopic Masses of Polypeptides from High Resolution Mass Spectrometric Data
   Park, K.; Yoon, J. Y.; Lee, S.; Paek, E.; Park, H.; Jung, H.-J.; Lee, S.-W. 
   Anal. Chem. 2008, 80, 7294-7303.
 </pre>
 ## 4. Rights and Permissions
 <pre>
-- RAPID by 2024 by Hanyang University is licensed under Creative Commons Attribution-ShareAlike 4.0 International, 
+- RAPID by 2024 by is licensed under Creative Commons Attribution-ShareAlike 4.0 International, 
   which permits use, sharing, adaptation, distribution and reproduction in any medium or format, 
   as long as you give appropriate credit to the original author(s) and the source, 
   provide a link to the Creative Commons license, and indicate if changes were made.
