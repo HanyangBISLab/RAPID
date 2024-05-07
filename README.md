@@ -89,10 +89,10 @@ The results are published in a table format similar to that of ICR-2LS or Decon2
 </pre>
 ## 4. Rights and Permissions
 <pre>
-- RAPID by 2024 by is licensed under Creative Commons Attribution-ShareAlike 4.0 International, 
-  which permits use, sharing, adaptation, distribution and reproduction in any medium or format, 
-  as long as you give appropriate credit to the original author(s) and the source, 
-  provide a link to the Creative Commons license, and indicate if changes were made.
+- RAPID © 2024 is licensed under Creative Commons Attribution-ShareAlike 4.0 International.
+  This license requires that reusers give credit to the creator. It allows reusers to distribute, 
+  remix, adapt, and build upon the material in any medium or format, even for commercial purposes. 
+  If others remix, adapt, or build upon the material, they must license the modified material under identical terms.
   To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 </pre>
 
